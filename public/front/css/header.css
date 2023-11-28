@@ -1,0 +1,17 @@
+
+.navbar{
+    background-color: var(--main-color);
+
+
+}
+
+.navbar .navbar-nav .nav-link{
+    color:var(--white-color);
+}
+
+
+#myCarousel {
+    margin-top: 50px;
+}
+
+

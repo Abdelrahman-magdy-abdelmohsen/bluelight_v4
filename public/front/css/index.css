@@ -1,0 +1,35 @@
+
+.brand {
+    background-color: #9DC3E6;
+}
+.flex-row {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed: space-between, flex-start, flex-end, etc. */
+    align-items: center; /* Adjust vertical alignment as needed */
+
+}
+
+/* Optional: Adjust box styles as necessary */
+.box {
+    width: 100px; /* Set your desired width */
+    height: 100px; /* Set your desired height */
+    margin: 10px; /* Set your desired margin */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc; /* Optional: Add border */
+    background-color: white;
+
+}
+
+.card{
+    width: 300px;
+}
+.card-body{
+    background-color: #EAECEE;
+}
+.card-img-top{
+margin: auto;
+    width: 100px;
+    height: 100px;
+}
